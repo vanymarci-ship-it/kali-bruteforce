@@ -1,0 +1,11 @@
+admin
+administrator
+msfadmin
+user
+guest
+test
+service
+ftp
+backup
+dev
+root
